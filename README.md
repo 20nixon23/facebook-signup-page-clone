@@ -36,7 +36,7 @@ facebook-signup-page-clone/
 ## 📹 Demo
 
 Check out the video demo of this project here:  
-🔗 [LinkedIn Post / YouTube Link] 
+🔗(https://www.linkedin.com/posts/nixon-j_webdevelopment-html-css-activity-7336646284751028226-jf52?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCKRAMB4UKCdSu4p4Liz9eTtzr39LPYYeE)] 
 
 ## 🚀 Author
 
