@@ -31,3 +31,22 @@ facebook-signup-page-clone/
 ├── Screenshort
 ├── Facebooknav.png
 └── README.md
+
+
+## 📹 Demo
+
+Check out the video demo of this project here:  
+🔗 [LinkedIn Post / YouTube Link] 
+
+## 🚀 Author
+
+**Nixon J**  
+[LinkedIn Profile](www.linkedin.com/in/nixon-j)  
+
+---
+
+## 🙌 Feedback
+
+Feedback and suggestions are welcome! Feel free to fork, star, and explore.
+
+
